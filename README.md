@@ -26,7 +26,7 @@ Necesitas tener instalado lo siguiente para ejecutar este proyecto:
 
 2. **Configurar la base de datos**
    - Abre phpMyAdmin y crea una nueva base de datos.
-   - Importa el archivo `database.sql` proporcionado para crear las tablas necesarias.
+   - Importa el archivo `registro.sql` proporcionado para crear las tablas necesarias.
 
 3. **Configurar el archivo de conexión a la base de datos**
    - Asegúrate de ajustar los parámetros de conexión a la base de datos en `con_db.php` para que coincidan con tu entorno local.
