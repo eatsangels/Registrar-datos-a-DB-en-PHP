@@ -1,9 +1,5 @@
 # Registrar-datos-a-DB-en-PHP
 Una forma de registrar datos desde php a una base de datos de Mysql
-Claro, puedo ayudarte a redactar un `README.md` para tu proyecto basándome en la información que has compartido hasta ahora. El proyecto parece ser un formulario de registro PHP con validación, almacenamiento en una base de datos MySQL, y estilos CSS definidos para la interfaz de usuario. Aquí tienes un ejemplo de cómo podrías estructurar el `README.md`:
-
----
-
 # Formulario de Registro PHP
 
 Este proyecto consiste en un formulario de registro web implementado en PHP que permite a los usuarios ingresar información como nombre, email, teléfono y un comentario. La información se valida en el servidor y se almacena en una base de datos MySQL. El proyecto incluye también estilos CSS para una presentación agradable y funcional del formulario.
