@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['register'])) {
             }
         }
     } else {
-        echo '<h3 class="bad">¡Por favor rellena todos los campos correctamente y asegúrate de que el comentario no exceda las 2000 palabras! y el campo telefono tenga al menos 10 dígitos</h3>';
+        echo '<h3 class="bad">¡Por favor rellena todos los campos correctamente y asegúrate de que el comentario no exceda las 2000 palabras! y el campo teléfono tenga al menos 10 dígitos</h3>';
     }
 }
 ?>
