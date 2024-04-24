@@ -66,12 +66,30 @@ footer {
     text-align: center;
 }
 
+.tel {
+    text-align: center;
+    color: #1e6;
+}
 
 
+input, textarea { /* Aplicar estilos comunes a input y textarea */
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+        color: #fff;
+        font-size: 16px;
+        background-color: #333; /* Fondo oscuro para el texto blanco */
+    }
 
-
-
-
+    textarea {
+        height: 150px; /* Altura fija para textarea */
+    }
+    
 .ok {
     text-align: center;
     width: 100%;

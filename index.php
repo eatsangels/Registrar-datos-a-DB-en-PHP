@@ -13,6 +13,8 @@
         <h1>!Suscribete</h1>
         <input type="text" name="name" placeholder="Nombre Completo">
         <input type="email" name="email" placeholder="Email">
+        <input type = "telefono " name="telefono" placeholder="Telefono">
+        <textarea name="comentario" placeholder="Ingresa tu comentario aquí..." maxlength="12000" required></textarea>
         <input type="submit" name="register">
         
     </form>
