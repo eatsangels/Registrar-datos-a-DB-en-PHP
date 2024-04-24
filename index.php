@@ -10,7 +10,7 @@
 <hgroup>
 <body>
     <form  method="post">
-        <h1>!Suscribete</h1>
+        <h1>¡Suscribete!</h1>
         <input type="text" name="name" placeholder="Nombre Completo">
         <input type="email" name="email" placeholder="Email">
         <input type = "telefono " name="telefono" placeholder="Telefono">
