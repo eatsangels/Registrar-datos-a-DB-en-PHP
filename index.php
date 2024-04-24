@@ -8,7 +8,15 @@
 </head>
 
 <hgroup>
+
+<div class="navbar">
+    <a href="index.php">Inicio</a>
+    <a href="consulta_datos.php">Consultar Datos</a>
+    <a href="buscar.php">Buscar</a>
+</div>
+
 <body>
+ 
     <form  method="post">
         <h1>¡Suscribete!</h1>
         <input type="text" name="name" placeholder="Nombre Completo">
@@ -23,5 +31,8 @@
 
 </hgroup>
 <?php require_once("registers.php");; ?>
+
 </body>
+
+
 </html>
