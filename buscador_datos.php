@@ -24,7 +24,7 @@ if (!empty($search)) {
         }
         echo "</table>";
     } else {
-        echo "No se encontraron resultados.";
+        echo '<h3 class="bad_search">¡No se encontraron los datos en la busqueda!</h3>';
     }
 } else {
     echo  '<h3 class="bad_search">¡Por favor ingresa un término de búsqueda!</h3>';
