@@ -22,7 +22,6 @@ Necesitas tener instalado lo siguiente para ejecutar este proyecto:
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/eatsangels/Registrar-datos-a-DB-en-PHP.git
-   cd tu_repositorio
    ```
 
 2. **Configurar la base de datos**
